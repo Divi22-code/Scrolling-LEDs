@@ -10,3 +10,7 @@ How clocks, counters, and timing behave on real devices
 
 Debugging differences between simulation and hardware
 Taking the first step makes everything easier.
+
+
+https://github.com/user-attachments/assets/62f16a57-3463-481b-925b-85648dd92953
+
